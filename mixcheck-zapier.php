@@ -6,13 +6,13 @@ use OM4\WooCommerceZapier\Plugin;
 defined( 'ABSPATH' ) || exit;
 
 /*
-Plugin Name: WooCommerce MixCheck - Zapier
+Plugin Name: MixCheck - Zapier
 Plugin URI: https://mixcheck.app
 Description: Integrates WooCommerce with <a href="https://mixcheck.app/" target="_blank">MixCheck</a>. Send WooCommerce data to MixCheck to generate and deliver licenses.
 Version: 1.1
 Author: amalgam.design
 Author URI: https://amalgam.design/
-Text Domain: woocommerce-mixcheck-zapier
+Text Domain: mixcheck-zapier
 Domain Path: /languages/
 Woo: 243589:0782bdbe932c00f4978850268c6cfe40
 WC requires at least: 6.5
