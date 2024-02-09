@@ -12,7 +12,7 @@ Description: Integrates WooCommerce with <a href="https://mixcheck.app/" target=
 Version: 1.1
 Author: amalgam.design
 Author URI: https://amalgam.design/
-Text Domain: woocommerce-mixcheck
+Text Domain: woocommerce-mixcheck-zapier
 Domain Path: /languages/
 Woo: 243589:0782bdbe932c00f4978850268c6cfe40
 WC requires at least: 6.5
